@@ -1,5 +1,7 @@
 # Re_TRPatch
 接近20年历史的TRPatch（古墓丽影工具）功能重现。 Remix of TRPatch (for Tomb Raider).
+[前往下载](https://github.com/NeoLaKa/Re_TRPatch/releases)
+
 原作者（TRPatch）的应用并未开源，且无法在64位系统下运行。为解决需求，将此应用的功能稍作提升，并于64位系统实现。
 本应用永久开源，并且可能随时添加新功能。
 
@@ -19,5 +21,5 @@ v0.2-0.3即将更新内容
 作者能力有限，本应用仅使用控制台界面编写，界面简陋。请多包涵。
 
 鸣谢：
-blog.csdn.net/mlyjqx/article/details/54458971			提供按钮写法
-blog.csdn.net/moonlightpeng/article/details/80292287	提供文件选择
+1. blog.csdn.net/mlyjqx/article/details/54458971			提供按钮写法
+2. blog.csdn.net/moonlightpeng/article/details/80292287	    提供文件选择
