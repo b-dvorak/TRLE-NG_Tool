@@ -16,7 +16,12 @@
     English version updated!
 
     /*近期更新方向：
-    1.从固定寻址方式进化为全域寻址
-
+    Update directions:
+    待定
+    Not defined yet.
+    
     注意：
-    作者能力有限，本应用界面简陋。请多包涵。*/
+    Caution:
+    作者能力有限，本应用界面简陋。请多包涵。
+    The author's programming skill is limited, and the app's design 
+    is really simple. Thanks for understanding.*/
