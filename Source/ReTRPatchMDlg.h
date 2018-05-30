@@ -36,4 +36,6 @@ public:
 	afx_msg void OnBnClickedVtr3();
 	afx_msg void OnBnClickedVtr4();
 	afx_msg void OnBnClickedVtr5();
+	afx_msg void OnBnClickedBeta1Find();
+	afx_msg void OnBnClickedAbout();
 };
