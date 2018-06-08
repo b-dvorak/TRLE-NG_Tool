@@ -17,8 +17,9 @@
 
     /*近期更新方向：
     Update directions:
-    待定
-    Not defined yet.
+    本工具将于近日释出C#精简版，MFC版将获得全新设计与其他功能。
+    This tool will receive a fully renewal design and some other features,
+    as well as a C# tiny version.
     
     注意：
     Caution:
