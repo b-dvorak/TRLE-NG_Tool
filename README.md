@@ -1,17 +1,10 @@
-# Re_TRPatch
-    接近20年历史的TRPatch（古墓丽影工具）功能重现。 Reborn of TRPatch (for Tomb Raider).
-    [前往下载 For download](https://github.com/NeoLaKa/Re_TRPatch/releases)
-    
-    原作者（TRPatch）的应用并未开源，且无法在64位系统下运行。
-    为对TRLE与TR2-5有需求的人群，将此应用的功能稍作提升，并于Xp32位以上系统实现。
-    本应用永久开源，并且可能随时添加新功能。
-    The original TRPatch which was built nearly 20 years ago, is not an 
-    open-source project and cannot run on any x64 Windows systems. 
-    Therefore, we build this open-source project for everyone who is 
-    interested in TRLE and TR2-5. This new project can run on almost 
-    every Windows system from XP, regardless of x86 or x64, and we 
-    intend to add functions into it randomly.
+# TRLE/NG_Tool
+    古墓丽影2-5及自制关卡小工具。（原名Re_TRPatch）
+    A useful tool for Tomb Raider 2-5 and TRLE/TRNG levels. (Previously named Re_TRPatch)
+    [前往下载 For download](https://github.com/NeoLaKa/TRLE-NG_Tool/releases)
 
+    目前具有TRPatch的功能（锁血补丁）。
+    Right now it can work as a health lock patch just as TRPatch does.
     英语版本已同步更新！
     English version updated!
 
